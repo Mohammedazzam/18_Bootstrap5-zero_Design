@@ -162,3 +162,9 @@ body {
   background-color: var(--green-color);
 }
 /* End Team */
+
+/* Start Project */
+.project {
+  background-color: var(--dark-color);
+}
+/* End Project */
